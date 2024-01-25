@@ -96,10 +96,11 @@
 - Typescript
 - Audio production and podcasting
 
-### 🤔 I’m looking for help with 
-- My next role as a developer with a great team after a brief hiatus parenting my infant daughter. I have cherished this invaluable time at such a wondrous age, but am eager to join an engineering team full-time again. 
+### 🤔 I’m currently looking for 
 - Freelance project opportunities
 - Charity projects for social good
+- My next role as a full-time developer with a great team where I can grow
+> _Following a brief full-time work hiatus to focus on full-time parenting of my firstborn. I have cherished this invaluable time at such a wondrous age, but I am eager to join an engineering team full-time again._ 
 
 <!-- ### 📫 How to reach me: 
 - Let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidmagbee/)
