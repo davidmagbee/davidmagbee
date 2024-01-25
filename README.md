@@ -91,7 +91,7 @@
 - Obtaining my next full-time role
 - Being the best possible father to my daughter
 
-### 🌱 I’m currently digging deeper on
+### 🌱 I’m currently digging deeper into
 - Artificial Intelligence
 - Typescript
 - Audio production and podcasting
