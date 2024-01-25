@@ -101,9 +101,9 @@
 - Freelance project opportunities
 - Charity projects for social good
 
-### 📫 How to reach me: 
+<!-- ### 📫 How to reach me: 
 - Let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidmagbee/)
-- Drop me a line through my [website](https://davidmagbee.com/#contact)
+- Drop me a line through my [website](https://davidmagbee.com/#contact) -->
 
 ###### ⚡ Fun fact: I live on an old commune known as [Better Farm](https://www.betterfarm.org/) in the foothills of the Adirondacks and Thousand Islands Region of Northern New York. 
 
