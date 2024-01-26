@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://davidmagbee.com/" target="_blank" rel="noreferrer"><img src="https://github.com/davidmagbee/davidmagbee/assets/54301756/619860ba-7b34-48e1-95a5-094b01830cea" alt="my banner"></a>
+  <a href="https://davidmagbee.com/" target="_blank" rel="noreferrer"><img src="https://github.com/davidmagbee/davidmagbee/assets/54301756/3032b322-7f5a-4040-be41-cd598ad69f18" alt="my banner"></a>
 </p>
 
 <!-- <h3 align="center">
