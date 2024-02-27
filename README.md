@@ -88,6 +88,7 @@
 - Being the best possible father to my daughter
 - An AI-enhanced journal app
 - Iterating on various implementations of media players and streaming apps for the independent radio station I manage in my free time
+- A 1977 Porsche 911 red cedar toy car for my daughter
 - Refactoring my portfolio and old projects
 - Obtaining my next full-time role with a great team
 
