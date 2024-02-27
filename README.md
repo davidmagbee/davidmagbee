@@ -85,28 +85,29 @@
 
 
 ### ⚙️ I’m currently working on 
-- Various Media Players and Streaming Apps for the independent radio station I manage in my free time
-- An AI-enhanced journaling app
-- Refactoring my portfolio and old projects
-- Obtaining my next full-time role
 - Being the best possible father to my daughter
+- An AI-enhanced journal app
+- Iterating on various implementations of media players and streaming apps for the independent radio station I manage in my free time
+- Refactoring my portfolio and old projects
+- Obtaining my next full-time role with a great team
 
 ### 🌱 I’m currently digging deeper into
 - Artificial Intelligence
-- Typescript
+- Serverless DBs 
 - Audio production and podcasting
+- Picking back up my '77 VW Bus restoration (as the weather warms)
 
 ### 🤔 I’m currently looking for 
+- My next role as a full-time developer with a great team where I can grow, and put down some long-term roots
+> _Following a brief full-time work hiatus to focus on full-time parenting of my firstborn. I have cherished this invaluable time at such a wondrous age, but I am eager to join an engineering team full-time again._ 
 - Freelance project opportunities
 - Charity projects for social good
-- My next role as a full-time developer with a great team where I can grow
-> _Following a brief full-time work hiatus to focus on full-time parenting of my firstborn. I have cherished this invaluable time at such a wondrous age, but I am eager to join an engineering team full-time again._ 
 
 <!-- ### 📫 How to reach me: 
 - Let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidmagbee/)
 - Drop me a line through my [website](https://davidmagbee.com/#contact) -->
 
-###### ⚡ Fun fact: I live on an old commune known as [Better Farm](https://www.betterfarm.org/) in the foothills of the Adirondacks and Thousand Islands Region of Northern New York. 
+###### ⚡ Fun fact: I live on an old commune known as [Better Farm](https://www.betterfarm.org/) in the foothills of the Adirondacks and Thousand Islands Region of Northern New York and manage a low-power FM radio station, [Better Radio](https://betterradio.airtime.pro/). 
 
 <!--
 **davidmagbee/davidmagbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
